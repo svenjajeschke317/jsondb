@@ -1,0 +1,28 @@
+{
+  "mitarbeiter": [
+    {
+      "personalnummer": 1,
+      "vorname": "Max",
+      "nachname": "Mustermann",
+      "abteilungsID": 101
+    },
+    {
+      "personalnummer": 2,
+      "vorname": "Erika",
+      "nachname": "Musterfrau",
+      "abteilungsID": 102
+    }
+  ],
+  "abteilungen": [
+    {
+      "id": 101,
+      "name": "Vertrieb",
+      "abteilungsleiter": 1
+    },
+    {
+      "id": 102,
+      "name": "Entwicklung",
+      "abteilungsleiter": 2
+    }
+  ]
+}
